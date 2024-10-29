@@ -34,16 +34,17 @@ Honestly, I'm not sure in terms of the work itself. Originally, I was going to w
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
-I enjoy working on personal projects a lot but I always found myself pushing myself to be in environments where I'd work with other people who work on projects. Even though I've worked on tons of personal projects throughout university, the collaborative ones stuck most with me, not necessarily the ones that were the most technically sophisticated. I started BUGS (https://bugsnyu.com), the open source club at NYU, originally based on the idea of bring people together to work on open source projects that would benefit the NYU community (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples).
+I've enjoyed working on programming projects on my own, but I always found myself yearning to bring others to work on collaborative projects and bring myself to environments where I could push myself on these projects. For the first part, I initially started BUGS (https://bugsnyu.com), the open source club at NYU, based on the idea of bringing people together to work on open source projects to benefit the NYU community (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club would evolve into helping teach the NYU CS community through workshops (such as Git, web development, web automation, etc.) and speaker events (developers who worked in open source within JP Morgan, Amazon, HRT, etc). 
 
-the academic environment that school provides but I of course would rather work on personal projects than homework
-  - I felt a lot of the clubs at my school very career-driven. Not as far as "join this club and you'll get a job!" but that was a motivation for a lot of the members/attendees. I wanted something more collaborative and project focused.
+For the second part, I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to 
 
-I also always pushed myself to be in collaborative academic environments. I spent a huge amount of time at OSIRIS, NYU's cybersecurity lab in Brooklyn, to put myself in an environment with other motivated students. I only had a minor interest in cybersecurity but that environment was conducive to 1) being able to learn from my peers, 2) talk about stuff related to school/clubs/projects, and 3) goof .  I also was 
-For example, I ended up creating CSAW (NYU Cybersecurity CTF competition) reverse engineering CTF challenges , I'm currently developing a reverse engineering challenge in the form of Swift iOS app - I find it really cool to delve into new ares of CS that I'm less comfortable with. 
-I naturally find the idea of Recurse Center really cool - it's like the OSIRIS lab I've really enjoyed being in but instead of focused cybersecurity, it's purely dedicated to personal projects. 
+- 1) Learn from my peers 
+  - CTFs, containerization knowledge, reverse engineering, etc.
+- 2) Remain motivated to work on projects
+- 3) push myself to learn/create cooler things.
+  - I crafted 2 CSAW (NYU Cybersecurity CTF competition) CTF challenges (one involved reverse engineering a PlayStation 3 controller test program).
 
-- Also, on my own, my ideaset is limited to, well, me. My ideas are going to naturally branch off of what I currently know about. But I like seeing new faces, new ideas, new concepts to make me feel inspired. I want to feel jealous! It's a really cool thing to be humbled and then dive into a totally new thing. In some ways, it humbles me but also boosts my excitement about the field a lot more. 
+I find that the Recurse Center provides the same type of dedicated environment that would push me much further than I would ever go on my own - it reminds of OSIRIS but instead purely dedicated to personal projects, in a way combining my excitement for BUGS. I would like to seeing new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
 
 ## What would you like to work on at RC?
 
