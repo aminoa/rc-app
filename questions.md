@@ -25,13 +25,13 @@ However, the DMCA complicates this: circumvention of technological protection me
 
 ## What do you want to be doing in two years?
 
-Honestly, I'm not sure about the work itself. Originally, I was going to write off potential career paths (working on open source emulation/getting back into theoretical ML from my previous NYU research) but it's hard to gauge where I'll end up in a couple of years, especially since I'm biased towards viewing things from a present point of view. Here's what I'd hope right now.
+Rather than try to predict my future career/project interests (probably the combination of ML/embedded systems), here are a couple deeper goals I have.
 
-- Work at a company/organization that has a mission statement I feel passionate about.
-  - This is slightly vague, but I'd want to have a positive impact on others and communities I'm a part of; I would look organizations (these happen to be charities/non-for-profits but I wouldn't restrict myself) such as the Raspberry Pi Foundation (making computers cheaper/accessible), the Internet Archive (preserving the web/digital media), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (making a free online learning platform to improve education accessibility) as examples.
+Work at a company/organization that has a mission statement I feel passionate about:
+- I want to have a positive impact on others and communities I'm a part of; I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
 
-- Solving technically challenging and interesting problems within a smart team
-  - To explain, at NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was a lot of fun (and tiring too) to develop proofs for the 4 problems our professor gave us. I felt energized because the answer was not obvious but being able to work through the problems with the other masters/PhD was intellectually stimulating. I want to work in an environment that gives me this feeling again.
+Solving technically challenging and interesting problems within a smart team
+- To explain, at NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other masters/PhD pushed me to be creative in my thinking and develop a deep understanding of the material. I want to work in an environment that gives me this feeling again.
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
