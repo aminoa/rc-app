@@ -5,6 +5,7 @@
 Personal Website: https://aneeshmaganti.com
 GitHub: https://github.com/aminoa
 Linkedin: https://www.linkedin.com/in/aneesh-maganti/
+Blog (new): https://stalereference.com
 
 ## Code CracklePop
 
