@@ -29,7 +29,6 @@ Starting with a couple deeper goals:
 
 Work at a company/organization that has a mission statement I feel passionate about:
 - I want to have a positive impact on others and communities I'm a part of. I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
-- Examples include:
 
 Solving technically challenging and interesting problems within a smart team
 - At NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other students pushed me to be creative in my thinking and develop a deep understanding of the material. 
