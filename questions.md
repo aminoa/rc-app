@@ -34,14 +34,14 @@ Honestly, I'm not sure in terms of the work itself. Originally, I was going to w
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
-I've enjoyed working on programming projects on my own, but I always found myself yearning to bring others to work on collaborative projects and bring myself to environments where I could push myself on these projects. For the first part, I initially started BUGS (https://bugsnyu.com), the open source club at NYU, based on the idea of bringing people together to work on open source projects to benefit the NYU community (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club would evolve into helping teach the NYU CS community through workshops (such as Git, web development, web automation, etc.) and speaker events (developers who worked in open source within JP Morgan, Amazon, HRT, etc). 
+I've enjoyed working on programming projects on my own, but I always found myself yearning to 1) bring others to work on collaborative projects and 2) bring myself to environments where I could push myself on these projects. For 1) I initially started BUGS (https://bugsnyu.com), the open source club at NYU, based on the idea of bringing people together to work on open source projects to benefit the NYU community (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club would evolve into helping teach the NYU CS community through workshops (such as Git, web development, web automation, etc.) and speaker events (developers who worked in open source within JP Morgan, Amazon, HRT, etc). 
 
-For the second part, I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to 
+For 2), I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to 
 
-- 1) Learn from my peers 
+- Learn from my peers 
   - CTFs, containerization knowledge, reverse engineering, etc.
-- 2) Remain motivated to work on projects
-- 3) push myself to learn/create cooler things.
+- Remain motivated to work on projects
+- push myself to learn/create cooler things.
   - I crafted 2 CSAW (NYU Cybersecurity CTF competition) CTF challenges (one involved reverse engineering a PlayStation 3 controller test program).
 
 I find that the Recurse Center provides the same type of dedicated environment that would push me much further than I would ever go on my own - it reminds of OSIRIS but instead purely dedicated to personal projects, in a way combining my excitement for BUGS. I would like to seeing new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
@@ -50,24 +50,21 @@ I find that the Recurse Center provides the same type of dedicated environment t
 
 It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by rather than forcing myself to follow a checklist. With that being said, that doesn't mean I don't have a checklist of stuff that I would like to work on!
 
-- Developing open source low-level iPhone 2G emulation
-  - I briefly worked on this as a research project under Professor Brendan Dolan Gavitt but I wasn't able to commit as much as I wanted; the iPhone is the most important computing device of the 21st century so being able to access these apps and games in an preserved and accessible manner is important.
-  - I expect this project to be what I focus on
-  - (There is touchHLE but I'm looking to make something more lower level, something in line with Martijn de Vos' research: https://devos50.github.io/blog/2022/ipod-touch-qemu/)
-  - My dream is to create the 'Dolphin Emulator' for iPhone emulation - a highly performant, accurate and user-friendly emulation platform that allows users to relieve their memories with the original hardware.
+- Develop baseband emulation as part of researching a low-level iPhone 2G emulator
+  - The iPhone is the most important computing device of the 21st century so I find it extremely perplexing that there isn't an open source emulator for the platform
+    - Emulation is the best method to preserve hardware in order to the original apps and games for the platform
+    - I briefly looked into existing solutions as part of an independent study under Professor BDG but I would want to focus on the baseband (cellular) component of the original iPhone 
 - Rewrite my Game Boy emulator in Rust 🦀
-  - I wrote dot-matrix (https://github.com/aminoa/dot-matrix) last summer but a) I didn't finish the graphics/control side and b) I dare myself to attempt APU emulation. I also wanted to use this opportunity to improve my Rust skills.
-- Write a Git re-implementation (following this guide: https://wyag.thb.lt/).
-  - I like to 'de-abstract' tools and while most of the time I don't bother since I would rather spend my time on something novel, Git is just within the realm of simplicity where it would cool to do to get a better understanding of how it works under the hood.
-- Developing "Feature", a story about a caterpillar with Tux the Penguin who goes on a journey to discover open source
-  - Ok, this one probably caught you off guard. There is a mascot of BUGS named "Feature" (it's not a bug, it's a feature!): https://bugsnyu.com/images/logo/feature.png. While every organization should have some mission statement, I felt that it was important to embody some of the values that I found really important in an accessible and engaging text. To research this, I read a number of texts discussing the FOSS movement (I would highly recommend Tozzi's book "For Fun and Profit" on the subject). I think being able to develop the storyline and show it off for feedback would be really useful and fun.
-  - While some of this I can certainly do on my own, getting feedback from a variety of Software Engineers would help a lot 
-- A C compiler! 
-  - I feel sad that I never got to learn this while at NYU despite me really wanting to. 
+  - I wrote dot-matrix (https://github.com/aminoa/dot-matrix) last summer but a) I didn't finish the graphics/control side and b) I dare myself to attempt APU (audio) emulation. I also wanted to use this opportunity to improve my Rust skills.
+- Write a Git re-implementation following this guide: https://wyag.thb.lt/.
+- A C compiler I feel sad I didn't take a compiler class at NYU. -->
+ite "Feature", a story about a caterpillar who, along with Tux the Penguin, who goes on a journey to spread FOSS values 
+  - The mascot of BUGS named "Feature" (it's not a bug, it's a feature!): https://bugsnyu.com/images/logo/feature.png. Even though I graduated, I feel it's important to embody the BUGS' values in an accessible and engaging text. I researched a number of texts discussing the FOSS movement (I would highly recommend Tozzi's book "For Fun and Profit" on the subject). 
+  - Getting feedback from those in the RC could help me improve the story/improve its authenticity and also be a lot of fun!
 
 ## Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
-I plan on attending primarily in-person.
+I plan on attending primarily in-person (which I find is much more collaborative than online).
 
 # Background
 
