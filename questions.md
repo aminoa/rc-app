@@ -13,17 +13,23 @@ Attached here: https://github.com/aminoa/rc-app/blob/main/cracklepop.py
 
 ## Please link to a program you've written from scratch
 
-I looked through most of my projects and I realized it's been a while since I've written a totally framework-free program (also distinguishing betweena a library and framework is hard). Regardless, I wrote a Python script that provides a workout analysis based on the exercises I have logged within Hevy (a workout app). It's attached here: https://github.com/aminoa/weighty/blob/master/weighty.py.
+I looked through most of my projects and I realized it's been a while since I've written a totally framework-free program (also distinguishing between a library and framework is hard). Regardless, I wrote a Python script that provides a workout analysis based on the exercises I have logged within Hevy (a workout app). It's attached here: https://github.com/aminoa/weighty/blob/master/weighty.py.
 
 ## What's the most fascinating thing you've learned this month?
 
-Learning about emulation law has been quite fascinating. I've written a couple of simple emulators in the last couple of years and have played with them for even more, but more recently, after Nintendo took down Ryujinx (a Switch emulator) last month, I felt compelled to research more into the legal side and write a blog post.
+Learning about emulation law has been quite fascinating. I've written a couple of simple emulators in the last couple of years and have played with them for even longer, but more recently, after Nintendo took down Ryujinx (a Switch emulator) last month, I felt compelled to research more into the legal side and write a blog post (https://stalereference.com/posts/switch-emulation/).
 
-To refresh, emulation is hardware simulation done via software. Copyright protects creative works, not functional ideas. For example, the concept of a toothbrush is functional but an Aneesh-branded toothbrush (with an in-vogue design) is copyrightable. Similarly, the system of the PlayStation is functional, whereas Sony's product is creative. Sony sued multiple emulator developers on potentially related copyright infringement but, twice in a row, the courts ruled in favor of the developers.
+To refresh, emulation is hardware simulation done via software. Copyright protects creative works, not functional ideas. For example, the concept of a toothbrush is functional but an Aneesh-branded toothbrush (with an in-vogue design) is copyrightable. Similarly, the PlayStation architecture is functional, whereas Sony's product is creative. Sony sued multiple emulator developers on potentially related copyright infringement but the courts ruled in favor of the developers twice.
 
-However, the DMCA complicates this: circumvention of technological protection measures (encryption) is now illegal but there is an exemption to permit reverse engineering to create an interoperable program; there are very . Earlier this year, Nintendo sued Yuzu (another Switch emulator) and argued that it broke the DMCA by breaking game encryption (though Yuzu soon settled). It's unclear how a court would rule in a future hypothetical lawsuit between Nintendo/(insert game/tech company) and an emulation team, but I certainly hope the courts would use current precedent to guide their decision.
+However, the DMCA complicates this: circumvention of technological protection measures (encryption) is now illegal but there is a (mostly untested) exemption to permit reverse engineering to create an interoperable program. Earlier this year, Nintendo sued Yuzu (another Switch emulator) and argued that it broke the DMCA by breaking game encryption (Yuzu soon settled). It's unclear how a court would rule in a future hypothetical lawsuit between Nintendo/(insert game/tech company) and an emulation team, I hope they rely on the intention of the copyright rulings to foster competition and aid in preservation.
 
 ## What do you want to be doing in two years?
+
+[//]: I'll probably give you the same comment that you gave me. Although you pull specific examples of places that emulate the ideals that you have, I think that it would be easier to understand if you gave some examples of what you could be doing specifically in two years.
+[//]: I also think that giving some concrete examples makes the points hit much harder than they do in isolation
+[//]: I'm part of; -> I'm part of.
+[//]: To explain, at NYU -> At NYU,
+
 
 Rather than try to predict my future career/project interests (probably the combination of ML/embedded systems), here are a couple deeper goals I have.
 
@@ -31,7 +37,7 @@ Work at a company/organization that has a mission statement I feel passionate ab
 - I want to have a positive impact on others and communities I'm a part of; I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
 
 Solving technically challenging and interesting problems within a smart team
-- To explain, at NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other masters/PhD pushed me to be creative in my thinking and develop a deep understanding of the material. I want to work in an environment that gives me this feeling again.
+- At NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other masters/PhD pushed me to be creative in my thinking and develop a deep understanding of the material. I want to work in an environment that gives me this feeling again.
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
