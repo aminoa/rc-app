@@ -35,17 +35,13 @@ Solving technically challenging and interesting problems within a smart team
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
-I've enjoyed working on programming projects on my own, but I always found myself yearning to 1) bring others to work on collaborative projects and 2) bring myself to environments where I could push myself on these projects. For 1) I initially started BUGS (https://bugsnyu.com), the open source club at NYU, based on the idea of bringing people together to work on open source projects to benefit the NYU community (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club would evolve into helping teach the NYU CS community through workshops (such as Git, web development, web automation, etc.) and speaker events (developers who worked in open source within JP Morgan, Amazon, HRT, etc). 
+I've enjoyed working on projects on my own, but I always found myself yearning to 1) bring others to work on collaborative projects and 2) bring myself to environments where I could push myself on these projects. 
 
-For 2), I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to 
+For 1) I started BUGS (https://bugsnyu.com), the open source club at NYU, to bring people together to work on cool open source projects (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club evolved into helping teach the NYU CS community through workshops and speaker events.
 
-- Learn from my peers 
-  - CTFs, containerization knowledge, reverse engineering, etc.
-- Remain motivated to work on projects
-- push myself to learn/create cooler things.
-  - I crafted 2 CSAW (NYU Cybersecurity CTF competition) CTF challenges (one involved reverse engineering a PlayStation 3 controller test program).
+For 2), I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to learn from my peers (CTFs, containerization knowledge, reverse engineering, etc), stay motivated to work on projects, and push myself to learn/create cooler things (I wrote 2 CTF challenges for NYU CSAW).
 
-I find that the Recurse Center provides the same type of dedicated environment that would push me much further than I would ever go on my own - it reminds me of OSIRIS but instead purely dedicated to personal projects, in a way combining my excitement for BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
+I find that the Recurse Center provides the same type of dedicated environment that would push me while having a project focus from BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
 
 ## What would you like to work on at RC?
 
