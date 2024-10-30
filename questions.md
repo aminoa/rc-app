@@ -95,15 +95,11 @@ I will have few commitments during this batch and they shouldn't interfere durin
 
 ## How did you first hear about RC?
 
-[//]: Took a look because I vaguely remembered but I did the merge from the old wiki to the new wiki - https://github.com/BUGS-NYU/nyu-cs-wiki/commit/7cf49a5e97e4838e87b056c43e7f55b54cabc89c
-[//]: And you added recurse for some reason - https://github.com/BUGS-NYU/nyu-cs-wiki/commit/45513d21dd688518cb7f16407236915160f5040c
-[//]: So I think it wasn't in the old wiki????
-
-Good question! I (think?) I first heard about the program when I was rebuilding the NYU CS Wiki (https://nyucswiki.com) around 1.5 years ago. I looked at the old NYU CS Wiki website from the previous iteration of the club and found the link on the website; I thought it sounded really cool but I didn't have the time to commit. I kept it in mind though and even told some friends who I thought would enjoy this.
+I originally mentioned it to a friend (Sachin Iyer) about a year ago and to a couple more friends in the months between but I'm not sure where I heard about it beforehand.
 
 ## How long ago did you first hear about RC?
 
-1.5 years ago.
+1 year ago
 
 ## What convinced you to apply today?
 
