@@ -27,19 +27,25 @@ However, the DMCA complicates this: circumvention of technological protection me
 
 [//]: I'll probably give you the same comment that you gave me. Although you pull specific examples of places that emulate the ideals that you have, I think that it would be easier to understand if you gave some examples of what you could be doing specifically in two years.
 [//]: I also think that giving some concrete examples makes the points hit much harder than they do in isolation
-[//]: I'm part of; -> I'm part of.
-[//]: To explain, at NYU -> At NYU,
-
 
 Rather than try to predict my future career/project interests (probably the combination of ML/embedded systems), here are a couple deeper goals I have.
 
 Work at a company/organization that has a mission statement I feel passionate about:
-- I want to have a positive impact on others and communities I'm a part of; I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
+- I want to have a positive impact on others and communities I'm a part of. I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
 
 Solving technically challenging and interesting problems within a smart team
 - At NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other masters/PhD pushed me to be creative in my thinking and develop a deep understanding of the material. I want to work in an environment that gives me this feeling again.
 
+Here are some examples I could see myself working:
+
+- [] 
+
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
+
+[//]: Point 1 is really strong. BUGS and Recurse do have a lot in common now that I think of it
+[//]: same type of dedicated environment -> is this in reference to OSIRIS (if so, I would mention it explicity like you do for BUGS)
+[//]: collaborate academic environments - what makes them academic instead of just collaborative environments
+[//]: feel inspired and jealous - jealous is a bit tough, not sure if it will be one of those words that come across with a different intention than you want
 
 I've enjoyed working on projects on my own, but I always found myself yearning to 1) bring others to work on collaborative projects and 2) bring myself to environments where I could push myself on these projects. 
 
@@ -50,6 +56,11 @@ For 2), I always pushed myself to be in collaborative academic environments. I s
 I find that the Recurse Center provides the same type of dedicated environment that would push me while having a project focus from BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
 
 ## What would you like to work on at RC?
+
+[//]: I think some content about why you would choose what you would choose would be good. Don't want it to come off as just trying to work through your side project backlog I think.
+[//]: ARM dynamic recompiler - that is a crazy 3 words that I need to look into at some point
+[//]: https://git-scm.com/docs/user-manual.html for the git stuff
+[//]: Wow a lot lot of emu stuff, kinda cool
 
 It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by. With that being said, that doesn't mean I don't have a checklist!
 
@@ -94,6 +105,10 @@ I have completed my BS in CS at NYU on September 22nd, 2024.
 I will have few commitments during this batch and they shouldn't interfere during the core hours at Recurse Center.
 
 ## How did you first hear about RC?
+
+[//]: Took a look because I vaguely remembered but I did the merge from the old wiki to the new wiki - https://github.com/BUGS-NYU/nyu-cs-wiki/commit/7cf49a5e97e4838e87b056c43e7f55b54cabc89c
+[//]: And you added recurse for some reason - https://github.com/BUGS-NYU/nyu-cs-wiki/commit/45513d21dd688518cb7f16407236915160f5040c
+[//]: So I think it wasn't in the old wiki????
 
 Good question! I (think?) I first heard about the program when I was rebuilding the NYU CS Wiki (https://nyucswiki.com) around 1.5 years ago. I looked at the old NYU CS Wiki website from the previous iteration of the club and found the link on the website; I thought it sounded really cool but I didn't have the time to commit. I kept it in mind though and even told some friends who I thought would enjoy this.
 
