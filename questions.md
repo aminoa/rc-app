@@ -25,23 +25,23 @@ However, the DMCA complicates this: circumvention of technological protection me
 
 ## What do you want to be doing in two years?
 
-[//]: I'll probably give you the same comment that you gave me. Although you pull specific examples of places that emulate the ideals that you have, I think that it would be easier to understand if you gave some examples of what you could be doing specifically in two years.
-[//]: I also think that giving some concrete examples makes the points hit much harder than they do in isolation
-
-Rather than try to predict my future career/project interests (probably the combination of ML/embedded systems), here are a couple deeper goals I have.
+Starting with a couple deeper goals:
 
 Work at a company/organization that has a mission statement I feel passionate about:
 - I want to have a positive impact on others and communities I'm a part of. I would look to (but not limited to) places such as the Raspberry Pi Foundation (making computers accessible), the Internet Archive (preserving the web), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (free online learning platform) as examples.
+- Examples include:
 
 Solving technically challenging and interesting problems within a smart team
-- At NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other masters/PhD pushed me to be creative in my thinking and develop a deep understanding of the material. I want to work in an environment that gives me this feeling again.
+- At NYU, the most memorable class I took was Algorithmic Machine Learning - I worked in a study group on the problem sets and it was intellectually stimulating (and a little tiring) to develop proofs for the problems our professor gave us. I felt energized because the answer was not obvious but working through the problems with the other students pushed me to be creative in my thinking and develop a deep understanding of the material. 
 
-Here are some examples I could see myself working:
-
-- [] 
+Here are some potential paths I would like to take:
+  - Go into a Masters/PhD program and join a research group that focuses on low-level hardware optimization for ML models
+  - Working at Red Hat Linux with other kernel engineers for performance optimization
+  - Working at the Strong Museum of Play to develop software that provides remote video game access for researchers using emulation software
+  - Working on a Duolingo ML team to develop their LLMs to make practice conversations natural for users
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
-
+research
 [//]: Point 1 is really strong. BUGS and Recurse do have a lot in common now that I think of it
 [//]: same type of dedicated environment -> is this in reference to OSIRIS (if so, I would mention it explicity like you do for BUGS)
 [//]: collaborate academic environments - what makes them academic instead of just collaborative environments
@@ -62,7 +62,7 @@ I find that the Recurse Center provides the same type of dedicated environment t
 [//]: https://git-scm.com/docs/user-manual.html for the git stuff
 [//]: Wow a lot lot of emu stuff, kinda cool
 
-It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by. With that being said, that doesn't mean I don't have a checklist!
+It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by. With that being said, that doesn't mean I don't have a checklist! I want to emphasize that, maybe with the exception of the Git project, I listed difficult projects without an obvious implementation path because I think the RC environment will be beneficial in pushing me to wade through these projects with less fear than I would normally would be on my own.
 
 Develop baseband emulation as part of researching a low-level iPhone 2G emulator
 - Emulation is necessary for software preservation so I want to tackle this, though this is grand project
@@ -81,6 +81,7 @@ Write a Git re-implementation
 
 Contribute to Dolphin Emulator an "FPS" matrix interpolation mode (allows doubling framerates in GameCube/Wii games)
 - Using Dolphin's fast forward and monitoring the draw calls, interpolate all vertices between current and next frame to create a buffer frame
+
 
 ## Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
