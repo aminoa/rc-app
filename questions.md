@@ -45,19 +45,25 @@ I find that the Recurse Center provides the same type of dedicated environment t
 
 ## What would you like to work on at RC?
 
-It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by rather than forcing myself to follow a checklist. With that being said, that doesn't mean I don't have a checklist of stuff that I would like to work on!
+It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by. With that being said, that doesn't mean I don't have a checklist!
 
-- Develop baseband emulation as part of researching a low-level iPhone 2G emulator
-  - The iPhone is the most important computing device of the 21st century so I find it extremely perplexing that there isn't an open source emulator for the platform
-    - Emulation is the best method to preserve hardware in order to the original apps and games for the platform
-    - I briefly looked into existing solutions as part of an independent study under Professor BDG but I would want to focus on the baseband (cellular) component of the original iPhone 
-- Rewrite my Game Boy emulator in Rust 🦀
-  - I wrote dot-matrix (https://github.com/aminoa/dot-matrix) last summer but a) I didn't finish the graphics/control side and b) I dare myself to attempt APU (audio) emulation. I also wanted to use this opportunity to improve my Rust skills.
-- Write a Git re-implementation following this guide: https://wyag.thb.lt/.
-- A C compiler I feel sad I didn't take a compiler class at NYU. -->
-- Write "Feature", a story about a caterpillar named Feature (https://bugsnyu.com/images/logo/feature.png) who, along with Tux the Penguin, goes on a journey to spread FOSS values 
-  - Even though I graduated, I feel it's important to embody the BUGS' values in an accessible and engaging text. I researched several texts discussing the FOSS movement (I would highly recommend Tozzi's book "For Fun and Profit" on the subject). 
-  - Getting feedback from those in the RC could help me improve the story/improve its authenticity and also be a lot of fun!
+Develop baseband emulation as part of researching a low-level iPhone 2G emulator
+- Emulation is necessary for software preservation so I want to tackle this, though this is grand project
+- Based on existing iPod Touch emulation work by Martijn de Vos, I'll focus on researching the baseband (cellular) component such that I can write and incorporate a C++ re-implementation
+
+De-QEMUize existing iPod touch emulator
+- Related to the above item, I want to see if I can insert an existing ARM dynamic recompiler to improve performance
+- This would also require a significant rewrite of the iPod Touch emulator
+
+Rewrite my Game Boy emulator (in Rust 🦀)
+- I wrote dot-matrix last summer but a) I didn't finish the graphics and b) I dare myself to attempt APU (audio) emulation. 
+- I also wanted to use this opportunity to improve my Rust skills.
+
+Write a Git re-implementation 
+- Following the "Write Yourself a Git" guide (also using Rust)
+
+Contribute to Dolphin Emulator an "FPS" matrix interpolation mode (allows doubling framerates in GameCube/Wii games)
+- Using Dolphin's fast forward and monitoring the draw calls, interpolate all vertices between current and next frame to create a buffer frame
 
 ## Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
