@@ -16,15 +16,15 @@ I looked through most of my projects and I realized it's been a while since I've
 
 ## What's the most fascinating thing you've learned this month?
 
-I would say learning about emulation law has been quite fascinating (especially how copyright law, fair use, the DMCA, and its reverse engineering exemption come into play). I've written a couple simple emulators in the last couple of years and have played with them for even more, but more recently, after Nintendo took down Ryujinx (a Switch emulator) last month, I felt compelled to research more into the legal side and write a blog post. (I'm also generally inclined to having a holistic understanding of anything I spend a lot of time with).
+I would say learning about emulation law has been quite fascinating (especially how copyright law, fair use, the DMCA, and its reverse engineering exemption come into play). I've written a couple of simple emulators in the last couple of years and have played with them for even more, but more recently, after Nintendo took down Ryujinx (a Switch emulator) last month, I felt compelled to research more into the legal side and write a blog post. (I'm also generally inclined to have a holistic understanding of anything I spend a lot of time with).
 
-There is a lot to say on the topic but I'll try to be brief. To refresh ourselves, emulation is hardware simulation done via software. Copyright law generally protects creative works, not functional ideas. So for example, the concept of a toothbrush is functional. However, the Aneesh-branded toothbrush (with a very in-vogue design) is copyrightable. Similarly, the concept/system of the PlayStation 1 is functional, whereas Sony's product is creative. Even when Sony sued on potentially related copyright infringement of copying the Sony BIOS (boot) file in the process of an emulator, the courts ruled in favor of Connectix that it was fair use for reverse engineering (or getting access to the functional elements).
+There is much to say on the topic but I'll try to be brief. To refresh ourselves, emulation is hardware simulation done via software. Copyright law generally protects creative works, not functional ideas. So for example, the concept of a toothbrush is functional. However, the Aneesh-branded toothbrush (with a very in-vogue design) is copyrightable. Similarly, the concept/system of the PlayStation 1 is functional, whereas Sony's product is creative. Even when Sony sued on potentially related copyright infringement of copying the Sony BIOS (boot) file in the process of an emulator, the courts ruled in favor of Connectix that it was fair use for reverse engineering (or getting access to the functional elements).
 
 The Digital Millennium Copyright Act (1998) complicates this, specifically section 1201. Now circumvention of technological protection measures (encryption) is illegal (and all modern consoles use encryption in some form) but there is an exemption to permit reverse engineering for the sake of creating an interoperable program. Note this is all mostly untested. Earlier this year, Nintendo sued Yuzu (another Switch emulator) and argued that it broke the DMCA by breaking game encryption (Yuzu soon settled). It's unclear how a court would rule in a future hypothetical lawsuit between Nintendo/(insert game/tech company) and an emulation team; I certainly hope the courts would use current precedent to guide their decision. I wrote more in my post here (https://stalereference.com/posts/switch-emulation/) and you can see the reactions to it here (https://www.reddit.com/r/emulation/comments/1g8yf9b/nintendo_is_killing_switch_emulation_via_murky/).
 
 ## What do you want to be doing in two years?
 
-Honestly, I'm not sure in terms of the work itself. Originally, I was going to write off potential career paths (working on open source emulation/getting back into theoretical ML from my previous NYU research) but it's hard to gauge where I'll end up in a couple of years, especially since I'm biased towards viewing things from a present point of view. Here's what I'd hope right now.
+Honestly, I'm not sure about the work itself. Originally, I was going to write off potential career paths (working on open source emulation/getting back into theoretical ML from my previous NYU research) but it's hard to gauge where I'll end up in a couple of years, especially since I'm biased towards viewing things from a present point of view. Here's what I'd hope right now.
 
 - Work at a company/organization that has a mission statement I feel passionate about.
   - This is slightly vague, but I'd want to have a positive impact on others and communities I'm a part of; I would look organizations (these happen to be charities/non-for-profits but I wouldn't restrict myself) such as the Raspberry Pi Foundation (making computers cheaper/accessible), the Internet Archive (preserving the web/digital media), the Electronic Frontier Foundation (protecting our digital rights/privacy) or Khan Academy (making a free online learning platform to improve education accessibility) as examples.
@@ -44,7 +44,7 @@ For 2), I always pushed myself to be in collaborative academic environments. I s
 - push myself to learn/create cooler things.
   - I crafted 2 CSAW (NYU Cybersecurity CTF competition) CTF challenges (one involved reverse engineering a PlayStation 3 controller test program).
 
-I find that the Recurse Center provides the same type of dedicated environment that would push me much further than I would ever go on my own - it reminds of OSIRIS but instead purely dedicated to personal projects, in a way combining my excitement for BUGS. I would like to seeing new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
+I find that the Recurse Center provides the same type of dedicated environment that would push me much further than I would ever go on my own - it reminds me of OSIRIS but instead purely dedicated to personal projects, in a way combining my excitement for BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
 
 ## What would you like to work on at RC?
 
@@ -58,8 +58,8 @@ It's hard to exactly know which direction I would go in Recurse Center, especial
   - I wrote dot-matrix (https://github.com/aminoa/dot-matrix) last summer but a) I didn't finish the graphics/control side and b) I dare myself to attempt APU (audio) emulation. I also wanted to use this opportunity to improve my Rust skills.
 - Write a Git re-implementation following this guide: https://wyag.thb.lt/.
 - A C compiler I feel sad I didn't take a compiler class at NYU. -->
-ite "Feature", a story about a caterpillar who, along with Tux the Penguin, who goes on a journey to spread FOSS values 
-  - The mascot of BUGS named "Feature" (it's not a bug, it's a feature!): https://bugsnyu.com/images/logo/feature.png. Even though I graduated, I feel it's important to embody the BUGS' values in an accessible and engaging text. I researched a number of texts discussing the FOSS movement (I would highly recommend Tozzi's book "For Fun and Profit" on the subject). 
+- Write "Feature", a story about a caterpillar named Feature (https://bugsnyu.com/images/logo/feature.png) who, along with Tux the Penguin, goes on a journey to spread FOSS values 
+  - Even though I graduated, I feel it's important to embody the BUGS' values in an accessible and engaging text. I researched several texts discussing the FOSS movement (I would highly recommend Tozzi's book "For Fun and Profit" on the subject). 
   - Getting feedback from those in the RC could help me improve the story/improve its authenticity and also be a lot of fun!
 
 ## Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
@@ -70,7 +70,7 @@ I plan on attending primarily in-person (which I find is much more collaborative
 
 ## Describe your programming background in a few sentences.
 
-I initially got into programming from making games in Scratch and doing some online JavaScript courses back in 8th grade and continued with some classes in high school. I got more into it while studying CS at NYU and doing research (in theoretical ML and later hardware). My personal projects have tended towards systems programming (C++) and web development (Next.js apps).
+I initially got into programming by making games in Scratch and doing some online JavaScript courses back in 8th grade and continued with some classes in high school. I got more into it while studying CS at NYU and doing research (in theoretical ML and later hardware). My personal projects have tended towards systems programming (C++) and web development (Next.js apps).
 
 ## Have you worked professionally as a programmer?
 
