@@ -41,36 +41,25 @@ Here are some potential paths I would like to take:
   - Working on a Duolingo ML team to develop their LLMs to make practice conversations natural for users
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
-research
-[//]: Point 1 is really strong. BUGS and Recurse do have a lot in common now that I think of it
-[//]: same type of dedicated environment -> is this in reference to OSIRIS (if so, I would mention it explicity like you do for BUGS)
-[//]: collaborate academic environments - what makes them academic instead of just collaborative environments
-[//]: feel inspired and jealous - jealous is a bit tough, not sure if it will be one of those words that come across with a different intention than you want
 
 I've enjoyed working on projects on my own, but I always found myself yearning to 1) bring others to work on collaborative projects and 2) bring myself to environments where I could push myself on these projects. 
 
 For 1) I started BUGS (https://bugsnyu.com), the open source club at NYU, to bring people together to work on cool open source projects (the BUGS website, the NYU CS Wiki, and NYU Syllabi are three examples); the club evolved into helping teach the NYU CS community through workshops and speaker events.
 
-For 2), I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to learn from my peers (CTFs, containerization knowledge, reverse engineering, etc), stay motivated to work on projects, and push myself to learn/create cooler things (I wrote 2 CTF challenges for NYU CSAW).
+For 2), I always pushed myself to be in collaborative academic environments. I spent a large amount of time at the OSIRIS lab, NYU's cybersecurity research lab in Brooklyn, to be with other motivated CS/cyber students. The environment was conducive to learn from my peers (CTFs, containerization knowledge, reverse engineering, etc), stay motivated to work on projects, and push myself to learn/create cooler things (I wrote 2 CTF challenges for NYU CSAW).
 
-I find that the Recurse Center provides the same type of dedicated environment that would push me while having a project focus from BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired and jealous! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
+I find that the Recurse Center provides the same type of dedicated environment found in OSIRIS that would push me while having a project focus from BUGS. I would like to see new faces, ideas, and concepts to make me feel inspired! It humbles me but also boosts my excitement about what I work on, what others work on, and the field as a whole.
 
 ## What would you like to work on at RC?
 
-[//]: I think some content about why you would choose what you would choose would be good. Don't want it to come off as just trying to work through your side project backlog I think.
-[//]: ARM dynamic recompiler - that is a crazy 3 words that I need to look into at some point
-[//]: https://git-scm.com/docs/user-manual.html for the git stuff
-[//]: Wow a lot lot of emu stuff, kinda cool
-
-It's hard to exactly know which direction I would go in Recurse Center, especially since I believe in the idea of catching the waves (ideas) when they come by. With that being said, that doesn't mean I don't have a checklist! I want to emphasize that, maybe with the exception of the Git project, I listed difficult projects without an obvious implementation path because I think the RC environment will be beneficial in pushing me to wade through these projects with less fear than I would normally would be on my own.
+It's hard to know the direction I would go in RC, especially since I believe in the idea of catching the waves (ideas) when they come by. The listed projects I chose are difficult and lack a straightforward implementation path; I find that the RC environment will keep me more motivated to wade through the unclear challenges.
 
 Develop baseband emulation as part of researching a low-level iPhone 2G emulator
-- Emulation is necessary for software preservation so I want to tackle this, though this is grand project
-- Based on existing iPod Touch emulation work by Martijn de Vos, I'll focus on researching the baseband (cellular) component such that I can write and incorporate a C++ re-implementation
+- Emulation is necessary for software preservation so I want to tackle this, even though this is a grand project
+- Based on de Vos' iPod Touch emulation work, I'll research the baseband (cellular) component and write and incorporate a C++ reimplementation
 
 De-QEMUize existing iPod touch emulator
-- Related to the above item, I want to see if I can insert an existing ARM dynamic recompiler to improve performance
-- This would also require a significant rewrite of the iPod Touch emulator
+- Related to the above item, I want to insert an existing ARM dynamic recompiler to improve performance (this would require a significant rewrite)
 
 Rewrite my Game Boy emulator (in Rust 🦀)
 - I wrote dot-matrix last summer but a) I didn't finish the graphics and b) I dare myself to attempt APU (audio) emulation. 
@@ -80,8 +69,7 @@ Write a Git re-implementation
 - Following the "Write Yourself a Git" guide (also using Rust)
 
 Contribute to Dolphin Emulator an "FPS" matrix interpolation mode (allows doubling framerates in GameCube/Wii games)
-- Using Dolphin's fast forward and monitoring the draw calls, interpolate all vertices between current and next frame to create a buffer frame
-
+- Using Dolphin's fast forward and monitoring the draw calls, interpolate all vertices between the current and next frame to create a buffer frame
 
 ## Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
