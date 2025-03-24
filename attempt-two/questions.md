@@ -5,7 +5,7 @@
 Personal Website: https://aneeshmaganti.com
 GitHub: https://github.com/aminoa
 Blog: https://stalereference.com
-Linkedin: https://www.linkedin.com/in/aneesh-maganti/
+LinkedIn: https://www.linkedin.com/in/aneesh-maganti/
 
 ## Code CracklePop
 
@@ -21,13 +21,25 @@ Here is a framework-free* python script that provides a workout analysis based o
 
 I'm about 2/3 through Play Nice: The Rise, Fall, and Future of Blizzard Entertainment by Jason Schreier. Blizzard, now owned by Microsoft, is a gaming company that produced World of Warcraft, Overwatch, Starcraft, etc. I haven't played a Blizzard game (yet) but I enjoy reading game development stories! The book starts from the early days of Allen Adham and Mike Morhaime starting Blizzard to turning the company into a conglomerate with multiple hits and later to Bobby Kotick merging Activision and taking over as CEO of the joint company. While the corporate shenanigans were interesting, there was one overlooked but very impactful detail. 
 
-Blizzard missed their chance to turn Battle.net into the de-facto platform for PC gaming. In 1996, programmer Mike O'Brien developed Battle.net as free online infrastructure for Diablo. Engineer Pat Wyatt wanted to turn Battle.net into a digital storefront, but Adham, Morhaime, and other executives wanted to focus on Blizzard products - Morhaime viewed the Blizzard brand as sacred and worked to ensure that each game would have the time it'd need to be successful. This brand protection however closed off the board to expanding their new platform. This is crazy in retrospect - Valve launched Steam 6 years later to provide easier content distribution/anti-piracy for games like Half Life 2 before opening up their storefront to conquer the space and in the years after, tech giants like Apple fought to keep users on their platform.
+Blizzard missed their chance to turn Battle.net into the de-facto platform for PC gaming! In 1996, programmer Mike O'Brien developed Battle.net as free online infrastructure for Diablo. Engineer Pat Wyatt wanted to turn Battle.net into a digital storefront, but Adham, Morhaime, and other executives wanted to focus on Blizzard products - Morhaime viewed the Blizzard brand as sacred and worked to ensure that each game would have the time it'd need to be successful. This brand protection however closed the board off to expanding their new platform. This is crazy in retrospect - Valve launched Steam 6 years later to provide easier content distribution/anti-piracy for games like Half Life 2 before opening up their storefront to conquer the space and in the years after, tech giants like Apple fought to keep users on their platform.
 
 ## What do you want to be doing in two years?
 
-My deeper goals haven't changed since my last application: I'm driven to work at a company that has a mission statement that positively impacts others and communities I'm a part of (digital rights groups like the EFF or Internet Archive or educational companies like Coursera or Khan Academy). I'm also drawn to technically challenging problems within a smart team (which I've felt especially through my Algorithmic Machine Learning class which pushed me to dive deep into material and be creative with proofs for complex problems). Some pathways include going into academia to focus on low-level hardware optimization for ML models or working at Khan Academy to LLM chatbots to help students study their material.
+My deeper values haven't changed since my last app, but the time in-between has changed my application of those values. Specifically, I'm more strongly valuing the impact of my work over the technical challenge - with that being said, there's still a breadth to the type of work I see myself doing. 
 
-<!-- Lately, I've been more interested in volunteering with software preservation groups, especially in light of events like Nintendo taking down emulators Yuzu and Ryujinx, despite legal ambiguity around their legitimacy (which I've discussed previously) and the Copyright Office refusing to loosen restrictions on emulated game library access for researchers at the 2024 DMCA triennial meeting. I want to support a group that lobbies/advocates for legislation that supports software preservation such as exemptions for breaking encryption in emulation software. While not a full-time pursuit, I aim to deepen my technical background in emulation, engage with other emulator developers to understand their challenges, and consult with others to navigate the legal landscape. -->
+Starting with values:
+
+- Mission-driven work: I want to have a positive impact on others and the communities I'm a part of and organizations/companies that envelope my ideals include digital rights groups such as the EFF or Internet Archive and educational companies like Coursera or Khan Academy.
+
+- Solving challenging problems within a smart team: My Algorithmic ML class encompassed this (deep-diving into the material, working collaboratively on open-ended problem sets, and constructing creative proofs)
+
+In terms of the potential paths:
+
+- A masters/PhD program that focuses on low-level hardware optimization for ML models or exploring the theory side of ML (like sketching algorithms or optimization) and applying my research at open source ML companies like Mistral
+
+- Working with the Software Preservation Network and Video Game History Foundation to lobby for legislation to protect/provide exemptions for emulators - I've been motivated by Nintendo's recent takedown of emulators and the Copyright Office refusing to budge on opening up game access for researchers
+
+- Working at Duolingo or Khan Academy to develop secure LLM chatbots to help students study their material
 
 ## Why do you want to attend RC? How would attending RC be different than working on your own?
 
@@ -45,7 +57,7 @@ While this period grew me as a programmer, it kept me acutely aware that the col
 I'm prioritizing the projects compared to my previous app and also I want to focus more on hanging out and talking with others to learn about their own interests/projects to make the most of my time (and have more fun!). With that being said, here's a couple of ideas:
 
 Develop baseband emulation for researching a low-level iPhone 2G emulator
-- Emulation is important for software interopability and preservation (and current iPhone emulation isn't good)
+- Emulation is important for software interoperability and preservation (and current iPhone emulation isn't good)
 - Based on de Vos' iPod Touch emulation work, I'll research the baseband (cellular) component and write and incorporate a C++ reimplementation
 
 Learn graphics fundamentals with Vulkan
@@ -71,7 +83,7 @@ I initially got into programming by making games in Scratch and doing some onlin
 
 ## Have you worked professionally as a programmer?
 
-I interned at Qualcomm last summer as a SWE intern within the AI/ML organization. I worked for some smaller startups before that. 
+I'll be joining Affirm full-time quite a bit after the RC batch ends. I interned at Qualcomm last summer as a SWE intern within the AI/ML organization. I worked for some smaller startups before that. 
 
 ## Do you have a Computer Science degree or are you seeking one?
 
