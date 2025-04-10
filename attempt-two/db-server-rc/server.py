@@ -28,8 +28,11 @@ def set():
 def get():
     key = request.args.get('key')
 
+    if not key:
+        return "Error: Missing 'key' parameter.", 404
     if key not in db:
         return "Error: Key not found.", 404
+
     return db[key]
 
 if __name__ == '__main__':
