@@ -4,36 +4,63 @@
 # When it receives a request on http://localhost:4000/get?key=somekey 
 # it should return the value stored at somekey.
 
+# Edit 1: Rewrote server to use built-in HTTP library rather than Flask
+
 # TODO: save data to a file, make it performant
 
-from flask import Flask, request
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from urllib.parse import urlparse, parse_qs
 
-app = Flask(__name__)
-db = {}
+store = {}
 
-@app.route('/set', methods=['GET'])
-def set():
-    if len(request.args) != 1:
-        return "Invalid Request: ", 400
+class RequestHandler(BaseHTTPRequestHandler):
 
-    key, value = list(request.args.items())[0]
+    def get(self, query_params):
+        """Retrieve the data with key"""
+        key = query_params.get('key', [None])[0]
+        if not key or key not in store:
+            self.send_error(400, "Invalid Request: Missing 'key' Parameter or key not found")
+            return
 
-    if not key or not value:
-        return "Invalid Request: Both key and value must be provided.", 400
+        self.send_response(200)
+        self.send_header('Content-type', 'application/text/plain')
+        self.end_headers()
+        self.wfile.write(f"Value: {store[key]}".encode())
 
-    db[key] = value
-    return f"Stored {key} = {value}"
+    def set(self, query_params):
+        # make sure only one parameter is sent
+        if len(query_params) != 1:
+            self.send_error(400, "Invalid Request: Send exactly one key and value")
+            return
 
-@app.route('/get', methods=['GET'])
-def get():
-    key = request.args.get('key')
+        self.send_response(200)
+        self.send_header('Content-type', 'application/text/plain')
+        self.end_headers()
 
-    if not key:
-        return "Error: Missing 'key' parameter.", 404
-    if key not in db:
-        return "Error: Key not found.", 404
+        # this should only have one key
+        for key in query_params:
+            value = query_params[key]
+            store[key] = value
+            self.wfile.write(f"{key} = {value}\n".encode())
 
-    return db[key]
+
+    def do_GET(self):
+        parsed_url = urlparse(self.path)
+        query_params = parse_qs(parsed_url.query)
+
+        match parsed_url.path:
+            case '/get':
+                self.get(query_params)
+            case '/set':
+                self.set(query_params)
+            case _:
+                self.send_error(400, "Invalid Request")
+                self.end_headers()
+
+def main():
+    httpd = HTTPServer(('localhost', 4000), RequestHandler)
+    print("Running server on http://localhost:4000")
+    httpd.serve_forever()
 
 if __name__ == '__main__':
-    app.run(port=4000)
+    main()
